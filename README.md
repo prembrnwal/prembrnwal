@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛰 I’m currently working on<br>Building full-stack projects using Java, Spring Boot, React, and REST APIs<br><br>👥 I’m looking to collaborate on<br>Full-stack web apps, open-source projects, and real-world backend systems<br><br>🤝 I’m looking for help with<br>System design, advanced backend architecture, and AI-integrated applications<br><br>🌱 I’m currently learning<br>Microservices, scalable backend systems, and AI tools for development<br><br>💬 Ask me about<br>Java, Spring Boot, React, REST APIs, MySQL, and full-stack development<br><br>⚡ Fun fact<br>I enjoy participating in hackathons and building projects quickly from idea to deployment<br>
+Welcome to my profile! I'm a CSE'28 Student at @Chandigarh University, React.js/Next.js + SpringBoot for web development, Flutter for cross-platform mobile apps, Thanks for visiting and I'd love to connect!
 
 
 ## 🌐 Socials:
