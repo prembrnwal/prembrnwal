@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my profile! I’m a Computer Science Engineering student (Batch 2028) at Chandigarh University. I specialize in building web applications using React.js, Next.js, and Spring Boot. Thanks for stopping by—[let’s connect](https://linkedin.com/in/prem-burnwal-1271592b6/)!
+Welcome to my profile! I’m a Computer Science Engineering student (Batch 2028) at Chandigarh University. I specialize in building scalable backend systems and web applications using React.js and Spring Boot. Thanks for stopping by—[let’s connect](https://linkedin.com/in/prem-burnwal-1271592b6/)!
 
 ---
 
